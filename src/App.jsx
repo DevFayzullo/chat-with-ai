@@ -3,8 +3,8 @@ import { useState, useEffect, useRef } from "react";
 function App() {
   const [messages, setMessages] = useState([]);
   const [inputValue, setInputValue] = useState("");
-  // const [aiReady, setAiReady] = useState(false);
-  // const [isLoading, setIsLoading] = useState(false);
+  const [aiReady, setAiReady] = useState(false);
+  const [isLoading, setIsLoading] = useState(false);
   const messagesEndRef = useRef(null);
 
   useEffect(() => {
