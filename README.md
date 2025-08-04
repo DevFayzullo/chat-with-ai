@@ -1,12 +1,64 @@
-# React + Vite
+# AI Chat App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a React-based web application that simulates an AI-powered chat interface. Built with Vite and styled using Tailwind CSS, this project provides a fast, minimal, and responsive user experience.
 
-Currently, two official plugins are available:
+## 🧠 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Smart and clean chat UI
+- Fully responsive design
+- Built with Vite for fast development
+- Tailwind CSS utility-first styling
+- Easily connectable to OpenAI or other AI APIs
 
-## Expanding the ESLint configuration
+## 📸 Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![screenshot](./public/screenshot.png) <!-- Replace with actual image path -->
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js and npm installed
+
+### Installation
+
+```bash
+git clone https://github.com/DevFayzullo/ai-chat-app.git
+cd ai-chat-app
+npm install
+```
+
+### Run in Development Mode
+
+```bash
+npm run dev
+```
+
+### Build for Production
+
+```bash
+npm run build
+```
+
+## 🌐 Live Demo
+
+👉 [Click here to view the live demo](https://DevFayzullo.github.io/ai-chat-app/) <!-- Replace with actual link -->
+
+## 🛠️ Tech Stack
+
+- React 19
+- Vite
+- Tailwind CSS 4
+- JavaScript (ES6+)
+- ESLint
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+📌 Developed by **DevFayzullo**  
+> “The best way to predict the future is to invent it.” – Alan Kay
+
+Happy coding! 🚀
