@@ -42,7 +42,7 @@ npm run build
 
 ## 🌐 Live Demo
 
-👉 [Click here to view the live demo](https://DevFayzullo.github.io/ai-chat-app/) <!-- Replace with actual link -->
+👉 [Click here to view the live demo](https://chat-withai.netlify.app/)
 
 ## 🛠️ Tech Stack
 
