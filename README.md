@@ -1,5 +1,7 @@
 # AI Chat App
 
+[🇰🇷 한국어 README](./README.kr.md)
+
 This is a React-based web application that simulates an AI-powered chat interface. Built with Vite and styled using Tailwind CSS, this project provides a fast, minimal, and responsive user experience.
 
 ## 🧠 Features
@@ -12,7 +14,7 @@ This is a React-based web application that simulates an AI-powered chat interfac
 
 ## 📸 Preview
 
-![screenshot](./public/screenshot.png) <!-- Replace with actual image path -->
+![screenshot](./public/screenshot.png) 
 
 ## 🚀 Getting Started
 
