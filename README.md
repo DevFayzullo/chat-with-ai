@@ -50,7 +50,7 @@ npm run build
 
 - React 19
 - Vite
-- Tailwind CSS 4
+- Tailwind CSS
 - JavaScript (ES6+)
 - ESLint
 
