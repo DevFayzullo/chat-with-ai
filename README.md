@@ -61,6 +61,6 @@ This project is licensed under the MIT License.
 ---
 
 📌 Developed by **DevFayzullo**  
-> “The best way to predict the future is to invent it.” – Alan Kay
+> “The best way to predict the future is to invent it” – Alan Kay
 
 Happy coding! 🚀
